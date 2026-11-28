@@ -50641,5 +50641,22 @@
         "count": 5
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-28T12:00:26.822Z",
+    "keywords": [
+      {
+        "word": "Ucraina",
+        "count": 8
+      },
+      {
+        "word": "București",
+        "count": 8
+      },
+      {
+        "word": "milioane",
+        "count": 7
+      }
+    ]
   }
 ]
